@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+}
+
+.form input {
+  flex: 10;
+  padding: 5px;
+}
+
+.form button {
+  flex: 2;
+  outline: none;
+}
